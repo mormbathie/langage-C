@@ -9,9 +9,9 @@ int main()
      scanf("%d", &opperation);
      printf("Entrez le premier nombre " );
      scanf("%d", &num1);
-     printf("Entrez le deuxiem numero " );
+     printf("Entrez le deuxiem nombre " );
      scanf("%d", &num2);
-     printf("Entrez le troisiem numero " );
+     printf("Entrez le troisiem nombre " );
      scanf("%d", &num3);
 
 
@@ -26,7 +26,7 @@ int main()
      else if(opperation == 5)
           printf("le Modulo est %d \n " ,  num1 % num2 % num3);
      else
-            printf("opperation n'est pas dissponnible");
+            printf("cette oppération n'est pas dissponnible sur le systeme essyez de voire un autre methode");
 
     return 0;
 }
