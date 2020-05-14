@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1578579073 source:c:\users\pc\documents\mes projet c\minicalculatrice\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1577914330 source:c:\users\pc\documents\mes projet c\minicalculatrice\2e.c
+	<stdio.h>
+	<stdlib.h>
+
